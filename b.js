@@ -1,1 +1,1 @@
-<html><head><meta charset="utf-8" /></head><body><script type="text/javascript" nonce="UNwx716J">document.location.replace("https:\/\/pastebin.com\/raw\/s903xc93");</script></body></html>
+<html><head><meta charset="utf-8" /></head><body><script type="text/javascript" nonce="aWozNVkY">document.location.replace("https:\/\/pastebin.com\/UgKVq3Fu");</script></body></html>
